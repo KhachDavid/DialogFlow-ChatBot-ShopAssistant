@@ -51,7 +51,7 @@
     ]
   },
   "devDependencies": {
-    "ngrok": "^3.2.5",
+    "ngrok": "^4.1.0",
     "nodemon": "^2.0.1"
   }
 }

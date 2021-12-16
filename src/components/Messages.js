@@ -6,7 +6,7 @@ class Messages extends React.Component {
     super(props);
     this.state = {
       messages: [],
-      show: false
+      show: true
     }
   }
 
